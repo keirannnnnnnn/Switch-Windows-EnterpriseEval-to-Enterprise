@@ -7,7 +7,7 @@ Go to: C:\Windows\System32\spp\tokens\skus
 
 Step 2:
 
-Download the folder named 'Enterprise' thats linked to this repositry and once its downloaded, paste it into C:\Windows\System32\spp\tokens\skus
+Download the folder named 'Enterprise' thats linked to this repositry and once its downloaded, drag the WHOLE folder into C:\Windows\System32\spp\tokens\skus
 
 Step 3:
 
