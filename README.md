@@ -37,4 +37,4 @@ sc config wuauserv start= auto & net start wuauserv
 
 Step 4:
 
-Now you are on Windows 10/11 Enterprise however windows is NOT activated, now is the time to enter your windows license key or activate windows using Massgravel, to do this paste ```irm https://get.activated.win``` | iex into powershell and use option 1. 
+Now you are on Windows 10/11 Enterprise however windows is NOT activated, now is the time to enter your windows license key or activate windows using Massgravel, to do this paste ```irm https://get.activated.win | iex``` into powershell and use option 1. 
